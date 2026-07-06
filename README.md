@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋🏽
+Cloud Developer & Forward Deployed Engineer. Python + AWS.
 
 <!--
 **net-folade/net-folade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

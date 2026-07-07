@@ -2,7 +2,6 @@
 Solutions Architect, Cloud Developer & Aspiring FDE. Python + AWS.
 
 
-I use daily: Python, AWS-CLI, Terraform   
 Strong in: Python  
 Intermediate in AWS-CLI   
 Worked with: AI/ML models and libraries   

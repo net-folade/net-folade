@@ -1,5 +1,5 @@
 ## Hi there 👋🏽
-Solutions Architect, Cloud Developer & Aspiring FDE. Python + AWS.
+AI Cloud Developer. Training arc: Forward Deployed Engineer. Python + AWS.
 
 
 Strong in: Python  

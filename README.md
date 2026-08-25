@@ -3,10 +3,10 @@ AI Cloud Developer. Training arc: Forward Deployed Engineer. Python + AWS.
 
 
 Strong in: Python  
-Intermediate in AWS-CLI   
+I also use the Terraform, AWS-CLI   
 Worked with: AI/ML models and libraries   
 Ping me about open-source contributions in ML, Data engineering   
-Visit my [Portfolio](https://folade-a.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/fola-akhibi-0518141a9/)   
+Visit my [Portfolio](https://qx0.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/fola-akhibi-0518141a9/)   
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/net-folade/net-folade/output/snake.svg" alt="snake animation" />

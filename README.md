@@ -8,6 +8,10 @@ Worked with: AI/ML models and libraries
 Ping me about open-source contributions in ML, Data engineering   
 Visit my [Portfolio](https://qx0.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/fola-akhibi-0518141a9/)   
 
+### recent activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/net-folade/net-folade/output/snake.svg" alt="snake animation" />
 </div>
